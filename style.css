@@ -1,4 +1,26 @@
+h1 {
+	color: blue;
+}
+#left {
+	border: solid gray 2px;
+	display: inline-block;
+	vertical-align: top;
+	height: 300px;
+	width: 350px;
+}
+#right {
+	border: solid gray 2px;
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+}
 img {
-	height: 200px;
-	width: 200px;
-} 
+	height: auto;
+	width: 298px;
+}
+.logo {
+	margin: 5px;
+	height: 30px;
+	width: auto;
+	display: inline-block;
+}
